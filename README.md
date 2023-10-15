@@ -37,7 +37,7 @@ This solution could have been a lot shorter, but I wanted to be more pristine. M
 
 ### Useful resources
 
-- https://getcssscan.com/css-box-shadow-examples - This helped me for the box shadow 'cos I can't be bothered to create a custom one and I really like their collection.
+- https://getcssscan.com/css-box-shadow-examples - This helped me for the box shadow 'cos I can't be bothered creating a custom one and I really like their collection of box shadows there.
 
 ## Author
 
