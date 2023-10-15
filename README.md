@@ -42,6 +42,6 @@ This solution could have been a lot shorter, but I wanted to be more pristine. M
 ## Author
 
 - Website - [Kim Ryan Formentera](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MikSanty](https://www.frontendmentor.io/profile/MikSanty)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
